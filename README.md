@@ -40,3 +40,7 @@ The device offers the standard battery level service
   `293fa622-1c8a-11ea-a43a-57b4c400c11d`, 16-bit unsigned, scale factor 0.001
 
 
+## Accessing the services
+
+Use any  bluetooth scanner app (eg BLEScan on iphone/android), or use my Node.JS app for
+Raspberry Pi and other PCs: https://github.com/unixbigot/flowerscare-client
